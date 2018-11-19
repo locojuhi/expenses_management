@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'apps.dt_enterprise.apps.DtEnterpriseConfig',
-    'apps.dt_expense.apps.DtExpenseConfig'
+    'apps.dt_expense.apps.DtExpenseConfig',
+    'apps.dt_income.apps.DtIncomeConfig'
 ]
 
 MIDDLEWARE = [
